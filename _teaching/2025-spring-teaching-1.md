@@ -7,14 +7,3 @@ venue: "Universidad San Francisco de Quito, College of Sciences and Engineering"
 date: 2025-01-20
 location: "Quito, Ecuador"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
