@@ -15,5 +15,5 @@ You can find a downloadable copy of my CV [here](https://diegocuji.github.io/fil
   src="https://diegocuji.github.io/files/CV.pdf"
   type="application/pdf"
   width="100%"
-  style="height: 800px; display: block;"
->
+  height="600px"
+/>
