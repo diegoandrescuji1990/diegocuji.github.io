@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find a downloadable copy of my CV [here](https://diegocuji.github.io/files/CV.pdf)
+You can find a downloadable copy of my CV [here](https://diegocuji.github.io/files/CV.pdf).
 
 <embed
   src="https://diegocuji.github.io/files/CV.pdf"
