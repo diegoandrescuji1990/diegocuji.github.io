@@ -12,14 +12,8 @@ redirect_from:
 You can find a downloadable copy of my CV [here](https://diegocuji.github.io/files/CV.pdf)
 
 <embed
-
-	src="https://diegocuji.github.io/files/CV.pdf"
-
-
-	type="application/pdf"
-
-	width="100%"
-
-	height="100%"
-
+  src="https://diegocuji.github.io/files/CV.pdf"
+  type="application/pdf"
+  width="100%"
+  height="600px"
 />
